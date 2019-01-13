@@ -1,0 +1,9 @@
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+________________________Importance notice that
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+For using this application first time you should follow those steps.
+
+1) Open Totalcount.txt file
+2) clear older value
+3) Just input 0 from keyboard and just save the Totalcount.txt file
